@@ -1,35 +1,9 @@
 #topo {
     background-color: rgb(95,85,200);
-    height: 30px;
+    height: 48px;
     margin: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-right: 10px;
+    padding: 0 15px;
     }
-
-#fundo_pesquisa {
-    background-color: rgb(180, 180, 230);
-    height: 22px;
-    width: 200px;
-    margin-left: 15px;
-    border: solid;
-    border-radius: 5px;
-    border-color: rgb(95,85,200);
-    border-width: 1px;
-    margin-left: 15px;
-    display: flex;
-}
-
-#pesq_tarefa {
-    color: white;
-    background-color: transparent;
-    height: 20px;
-    width: 170px;
-    border: none;
-}
-
-#pesq_tarefa::placeholder{
-    font: bold 10pt Arial;
-    color: lavender;
-}

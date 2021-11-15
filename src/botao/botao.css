@@ -1,9 +1,8 @@
-#botao_gen {
+#botao_gen, #botao_grupo {
     background-color: transparent;
     border: none;
     color: blue;
     font-size: 16pt;
     padding: 10px;
-    /* font-weight: 600; */
 }
 

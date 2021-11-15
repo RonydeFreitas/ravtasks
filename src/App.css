@@ -50,6 +50,8 @@ body {
   align-content: space-around;
   align-items: flex-start;
   gap: 40px;
+  overflow: scroll;
+  height: calc(100vh - 48px);
 }
 
 #divbotao {
@@ -61,3 +63,8 @@ body {
   border-color: gray;
   border-width: 1px;
 }
+
+#inputdiv {
+  width: 220px;
+}
+
